@@ -33,7 +33,10 @@ class ProductManager {
 
   getProducts() {
     console.log(this.products);
+  
   }
+
+
 
   async getProductsById(id) {
     try {

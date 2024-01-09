@@ -54,22 +54,22 @@
       "stock": 40
     },
     {
-     " id": 7,
-     " title": "Bose QuietComfort 35 II",
-     " price": 299.99,
-     " image": "quietcomfort35.jpg",
-     " description": "Audífonos con cancelación de ruido para una experiencia musical inmersiva.",
-     " code": "BOSE-QC35",
-     " stock": 18
+     "id": 7,
+     "title": "Bose QuietComfort 35 II",
+     "price": 299.99,
+     "image": "quietcomfort35.jpg",
+     "description": "Audífonos con cancelación de ruido para una experiencia musical inmersiva.",
+     "code": "BOSE-QC35",
+     "stock": 18
     },
     {
-     " id": 8,
-     " title": "Canon EOS R5",
-     " price": 3799.99,
-     " image": "eosr5.jpg",
-     " description": "Cámara digital de alta resolución para fotografía y video profesional.",
-     " code": "CAN-EOSR5",
-     " stock": 12
+     "id": 8,
+     "title": "Canon EOS R5",
+     "price": 3799.99,
+     "image": "eosr5.jpg",
+     "description": "Cámara digital de alta resolución para fotografía y video profesional.",
+     "code": "CAN-EOSR5",
+     "stock": 12
     },
     {
       "id": 9,
